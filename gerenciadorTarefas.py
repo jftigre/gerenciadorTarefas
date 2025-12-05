@@ -75,3 +75,6 @@ while True:
         indice_tarefa_deletar = int(input("Digite o número da tarefa que deseja deletar: "))
         deletar_tarefas(lista_tarefas, indice_tarefa_deletar)
 
+    elif escolha == 6:
+        print("Programa encerrado!\n")
+        break
