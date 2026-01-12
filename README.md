@@ -1,4 +1,5 @@
 Gerenciador de Tarefas (CLI)
+
 Um sistema simples de gerenciamento de tarefas via terminal desenvolvido em Python. O projeto utiliza listas e dicionários para organizar os dados.
 
 📋 Funcionalidades
